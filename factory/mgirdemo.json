@@ -1,0 +1,9 @@
+{
+	"name": "mgirdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a6607bf-fbb8-4122-aa34-4002a6a03103",
+		"tenantId": "b4b87e8f-df64-41ff-9ba4-a4930ebc804b"
+	}
+}
